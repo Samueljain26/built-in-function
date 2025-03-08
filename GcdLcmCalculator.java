@@ -35,3 +35,8 @@ class GcdLcmCalculator {
         return (a * b) / gcd; // LCM formula: (a * b) / GCD
     }
 }
+/*Enter first number: 2
+Enter second number: 5
+GCD of 2 and 5 is: 1
+LCM of 2 and 5 is: 10
+ */
